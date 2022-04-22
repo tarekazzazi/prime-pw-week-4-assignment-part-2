@@ -2,13 +2,13 @@
 .info{
    
     text-align: center;
-    background-color: yellow;
+    background-color: lightskyblue;
     
  }
   .info2{
    
       text-align: center;
-      background-color: yellow;
+      background-color: orange;
       
   }
  
@@ -17,7 +17,6 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 125px;
-    background-color: blueviolet;
     display: block;
     width: 50%;
     height: 100%;
@@ -28,10 +27,11 @@
   
  .header{
     position: absolute;
-     top: 0px;
+     top: 0;
      left: 0;
      width: 100%;
      background-color: gray;
+     
  }
   
  img{
